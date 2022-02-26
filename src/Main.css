@@ -1,0 +1,494 @@
+.border-main{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 2.37%;
+    bottom: 2.37%;
+    width: 935px;
+    height: 700.6px;
+    margin-top: 20px;
+    border: 2px solid #5a5858;
+    border-radius: 4px;
+}
+
+.main_component{
+    color: aliceblue;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+.section-main{
+position: static;
+width: 67px;
+height: 18px;
+left: 0px;
+top: 0px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 7px 0px;
+}
+
+.tier{
+margin-left: 420px;
+width: 196.69px;
+height: 39.27px;
+background: #292a2b;
+mix-blend-mode: normal;
+border-radius: 12.2549px;
+}
+
+.xyzandtier{
+    margin-left: 6px;
+    background: #A3E3FF;
+    border-radius: 5px;
+    width: 50.87px;
+    height: 22.77px;
+    color: #3772FF;
+}
+
+.lorem-main{
+    width: 587px;
+    height: 76px;
+    margin-top: 10px;
+background: #ABE8FF;
+border-radius: 10px;
+}
+
+.text-lorem{
+padding-top: 15px;
+padding-left: 15px;
+width: 530px;
+height: 26px;
+left: 24px;
+top: 16px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 26px;
+color: #2B2557;
+}
+
+.bitcoin-img{
+    width: 30px;
+    height: 30px;
+    margin-left: 530px;
+    display: flex;
+}
+
+.tutorial-lorem{
+width: 86px;
+height: 24px;
+margin-left: 15px;
+background: #FFFFFF;
+border-radius: 6px;
+color: #2B2557;
+}
+
+.text-tutorial{
+height: 24px;
+left: 24.37%;
+right: 23.31%;
+top: calc(50% - 24px/2);
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+color: #2B2557;
+}
+
+.reward-main{
+    width: 587px;
+    height: 130px;
+    margin-top: 10px;
+    background: #191B20;
+    border-radius: 24px;
+    }
+
+.reward-text{
+width: 120px;
+height: 24px;
+padding-left: 18px;
+padding-top: 15px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.dollar-reward{
+width: 168px;
+height: 48px;
+padding-left: 18px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 48px;
+letter-spacing: -1px;
+color: #FFFFFF;
+}
+
+.icon-custom{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.custom{
+    width: 142.54px;
+    height: 36px;
+    background: #3772FF;
+    border-radius: 10px;
+    margin-left: 200px;
+}
+
+.text-custom{
+width: 82px;
+height: 23.47px;
+margin-left: 19px;
+margin-top: 3px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.custom-dollar-margin{
+    display: flex;
+    align-items: center;
+}
+
+.avax-box{
+width: 79.66px;
+height: 25.08px;
+margin-left: 18px;
+background: #353945;
+border-radius: 11px;
+}
+
+.text-avax{
+width: 61px;
+height: 18px;
+padding-left: 12px;
+padding-top: 5px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 17px;
+color: #FFFFFF;
+}
+
+.avax-margin{
+    display: flex;
+}
+
+.margin-fee-box{
+    display: flex;
+}
+
+.fee-box{
+width: 287.5px;
+height: 177.95px;
+margin-top: 10px;
+background: #191B20;
+opacity: 0.8;
+border-radius: 16px;
+}
+
+.fee-text{
+display: flex;
+width: 247.41px;
+height: 24px;
+padding-left: 18px;
+padding-top: 15px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.referal-link{
+width: 215.49px;
+height: 16px;
+padding-left: 18px;
+padding-top: 15px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+color: #808191;
+}
+
+.youtube-link{
+width: 260px;
+height: 56px;
+margin-left: 18px;
+margin-top: 15px;
+background: #242731;
+mix-blend-mode: normal;
+border-radius: 8px;
+}
+
+.text-youtube{
+display: flex;
+align-items: center;
+width: 216.41px;
+height: 24px;
+padding-left: 18px;
+padding-top: 15px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.link-margin{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.fee-box-right{
+    width: 287.5px;
+    height: 177.95px;
+    margin-top: 10px;
+    margin-left: 15px;
+    background: #191B20;
+    opacity: 0.8;
+    border-radius: 16px;
+    }
+    
+    .fee-text-right{
+    display: flex;
+    width: 247.41px;
+    height: 24px;
+    padding-left: 18px;
+    padding-top: 15px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    }
+    
+    .referal-link-right{
+    width: 215.49px;
+    height: 16px;
+    padding-left: 18px;
+    padding-top: 15px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #808191;
+    }
+    
+    .youtube-link-right{
+    width: 260px;
+    height: 56px;
+    margin-left: 18px;
+    margin-top: 15px;
+    background: #242731;
+    mix-blend-mode: normal;
+    border-radius: 8px;
+    }
+    
+    .text-youtube-right{
+    display: flex;
+    align-items: center;
+    width: 216.41px;
+    height: 24px;
+    padding-left: 18px;
+    padding-top: 15px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    }
+    
+    .link-margin-right{
+        padding-left: 25px;
+        padding-top: 10px;
+    }
+
+    .tab-margin{
+        display: flex;
+    }
+
+    .first-tab{
+width: 76px;
+height: 18px;
+padding-top: 25px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+color: #FFFFFF;
+    }
+
+    .second-tab{
+width: 103px;
+height: 18px;
+padding-top: 25px;
+padding-left: 15px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+color: #808191;
+    }
+.detail{
+display: flex;
+justify-content: space-evenly;
+width: 590.91px;
+height: 40px;
+margin-top: 20px;
+background: #191B20;
+mix-blend-mode: normal;
+border-radius: 8px;
+}
+
+.text-detail{
+    padding-top: 7px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #808191;
+    }
+
+.put-bitcoin{
+   width: 590.91px;
+   height: 62.29px;
+   margin-top: 5px;
+   background: rgba(36, 39, 49, 0.4);
+   border-radius: 5px;
+    }
+
+    .bitcoin-text-margin{
+        display: flex;
+    }
+
+    .set-size-img-two{
+        margin-left: 20px;
+        margin-top: 20px;
+        width: 20px;
+        height: 20px;   
+    }
+
+    .text-bit-put{
+width: 47.78px;
+height: 24px;
+margin-left: 6px;
+margin-top: 9px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+    }
+
+    .put-text{
+margin-left: 55px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+color: #808191;
+    }
+
+    .bnb-text{
+display: flex;
+flex-direction: column;
+width: 84.37px;
+height: 24px;
+margin-left: 50px;
+margin-top: 8px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+    }
+
+    .expire{
+width: 51.84px;
+height: 24px;
+margin-left: 11px;
+margin-top: 8px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+color: #808191;
+    }
+
+    .txt{
+margin-top: 20px;
+margin-left: 33px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+    }
+
+    .referal-txt{
+width: 75.22px;
+height: 24px;
+margin-left: 80px;
+margin-top: 10px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+    }
+
+    .referal-earning-txt{
+ width: 107.75px;
+ height: 16px;
+ margin-top: 10px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+color: #808191;
+    }

@@ -1,0 +1,236 @@
+.left-side-menu{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 2.37%;
+    bottom: 2.37%;
+    width: 250px;
+    height: 700.6px;
+    margin-top: 20px;
+    border: 2px solid #5a5858;
+    border-radius: 4px;
+}
+
+.text-without-n{
+position: absolute;
+width: 29.82px;
+height: 28.24px;
+left: 26px;
+top: 70px;
+background: #3772FF;
+border-radius: 50%;
+}
+
+.text-n{
+width: 20px;
+height: 15px;
+left: 31px;
+top: 77px;
+padding-left: 10px;
+padding-bottom: 3px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 15px;
+text-align: center;
+letter-spacing: -0.02em;
+color: #FEFEFE;
+}
+
+.text-name{
+background-color: black;
+left: 35.28%;
+right: -2.57%;
+top: 0%;
+bottom: -1.01%;
+margin-left: 20px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 23.5618px;
+line-height: 31px;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+}
+
+
+.leftside-component{
+    display: flex;
+
+}
+
+.start-home{
+    color: #FFFFFF;
+    margin-top: 25px;
+   
+}
+
+.homeicon{
+    display: flex;
+    align-items: center;
+}
+
+
+.home-text{
+    margin-left: 15px;
+}
+
+.Accessibilityicon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.Accessibility-text{
+    margin-left: 15px;
+}
+
+.AccountBalanceIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.AccountBalance-text{
+    margin-left: 15px;
+}
+
+.AddCardIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.AddCard-text{
+    margin-left: 15px;
+}
+
+.BackupIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.Backup-text{
+    margin-left: 15px;
+}
+
+.CachedIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.Cached-text{
+    margin-left: 15px;
+}
+
+.FeedbackIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.Feedback-text{
+    margin-left: 15px;
+}
+
+.LiveHelpIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.LiveHelp-text{
+    margin-left: 15px;
+}
+
+.Markunread-Icon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.Markunread-text{
+    margin-left: 15px;
+}
+
+.SmartScreenIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.SmartScreen-text{
+    margin-left: 15px;
+}
+
+.ClearAllIcon{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.ClearAllIcon-text{
+    margin-left: 15px;
+}
+
+.dollar{
+ margin-top: 25px;
+background: #353945;
+width: 95px;
+height: 33.83px;
+border-radius: 10px;
+display: flex;
+align-items: center;
+}
+
+.text-with-dollar{
+background: #3772FF;
+margin-left: 7px;
+border-radius: 30%;
+}
+
+.dollar-margin{
+    padding-left: 9px;
+}
+
+.buyplusdollar{
+    display: flex;
+}
+
+.buy-dollar{
+    margin-top: 25px;
+    margin-left: 10px;
+    background: #A3E3FF;
+    width: 95px;
+    height: 33.83px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.buy-with-dollar{
+color: #3772FF;
+margin-left: 7px;
+border-radius: 30%;
+}
+
+.buy-dollar-margin{
+    padding-left: 9px;
+    color: #3772FF;
+}
+
+.world-display{
+    margin-top: 10px;
+    display: flex;
+}
+
+.world-collaboration{
+    width: 58.19px;
+    height: 25.86px;
+background: #353945;
+border-radius: 12.9314px;
+margin-left: 20px;
+}

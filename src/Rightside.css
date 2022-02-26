@@ -1,0 +1,172 @@
+.menu-right{
+    margin-top: 80px;
+    margin-left: 1000px;
+    color: aliceblue;
+}
+
+.right-menu-flex{
+    display: flex;
+}
+
+.avalance-box{
+width: 146.67px;
+height: 39.22px;
+background: #353945;
+border-radius: 10px;
+}
+
+.logo-text-margin{
+    display: flex;
+    align-items: center;
+}
+.set-size-img{
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 20px;
+    height: 20px;   
+}
+
+.text-avalanche{
+    margin-left: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.arrow-logo{
+    padding-top: 5px;
+}
+
+.ethereum-box{
+    width: 146.67px;
+    height: 39.22px;
+    margin-left: 10px;
+    background: #353945;
+    border-radius: 10px;
+    border: .01px solid rgb(43, 43, 214);
+    }
+    
+    .logo-text-margin{
+        display: flex;
+        align-items: center;
+    }
+    .set-size-img{
+        margin-left: 10px;
+        margin-top: 5px;
+        width: 20px;
+        height: 20px;   
+    }
+    
+    .text-ethereum{
+        margin-left: 14px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .arrow-logo{
+        padding-top: 5px;
+    }
+
+    .arrow-link-flex{
+        display: flex;
+        align-items: center;
+    }
+
+    .arrow-margin{
+        margin-top: 25px;
+    }
+
+    .text-custom-two{
+width: 102px;
+height: 24px;
+margin-top: 22px;
+margin-left: 15px;
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+color: #FFFFFF;
+    }
+
+.youtube-text{
+width: 300px;
+height: 48px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 48px;
+letter-spacing: -1px;
+color: #FFFFFF;
+}
+
+.enter-box{
+width: 305.94px;
+height: 50.63px;
+background: #242731;
+mix-blend-mode: normal;
+border-radius: 12px;
+}
+
+.text-enter{
+    padding-top: 12px;
+    padding-left: 25px;
+}
+
+.margin-custom{
+    display: flex;
+    align-items: center;
+}
+
+.custom3{
+    width: 142.54px;
+    height: 36px;
+    background: #3772FF;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.text-custom-three{
+width: 82px;
+height: 23.47px;
+padding-left: 25px;
+padding-top: 5px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.cancel-box{
+width: 126px;
+height: 36px;
+margin-left: 30px;
+margin-top: 15px;
+border: 1px solid #242731;
+border-radius: 12px;
+}
+
+.flex-cancel{
+    display: flex;
+    margin-left: 22px;
+    margin-top: 5px;
+}
+
+.text-cancel{
+height: 24px;
+width: 48px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 8px;
+}
